@@ -3,7 +3,7 @@
     height: 200px;
     width: 90%;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 50px;
     padding: 12px 10px; 
     box-sizing: border-box;
 
@@ -19,9 +19,8 @@
 
 #green-box {
     background-color: green;
-    width: 350px;
+    width: 300px;
     height: 176px;
-    margin-left: 40px;
     display: inline-block;
     margin: 0 40px;
 }
@@ -34,10 +33,19 @@
 }
 .mid-container {
     border: dotted black 5px;
-    height: 300px;
+    height: 250px;
     width: 90%;
     margin: auto;
     margin-top: 50px;
+}
+
+#cream-box {
+    height: 150px;
+    width: 90%;
+    background-color: #fffacd;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 10px 10px rgb(77, 76, 76);
 }
 
 .bottom-container {
@@ -48,13 +56,14 @@
     margin-top: 50px;
     text-align: center;
     box-sizing: border-box;
+    padding-top: 100px;
+    box-shadow: 3px 3px rgb(179, 177, 177);
 }
 #greetings {
     font-size: 30px;
     font-weight: bold;
     color: navy;
     height: 50px;
-    margin-top: 100px;
+    letter-spacing: 7px;
     
-
 }
