@@ -1,7 +1,7 @@
 .top-container{
     border: solid black 3px;
     height: 200px;
-    width: 90%;
+    width: 900px;
     margin: auto;
     margin-top: 50px;
     padding: 12px 10px; 
@@ -34,14 +34,14 @@
 .mid-container {
     border: dotted black 5px;
     height: 250px;
-    width: 90%;
+    width: 900px;
     margin: auto;
     margin-top: 50px;
 }
 
 #cream-box {
     height: 150px;
-    width: 90%;
+    width: 860px;
     background-color: #fffacd;
     margin: auto;
     margin-top: 50px;
@@ -51,7 +51,7 @@
 .bottom-container {
     border: solid black 1px;
     height: 250px;
-    width: 60%;
+    width: 600px;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 25px;
